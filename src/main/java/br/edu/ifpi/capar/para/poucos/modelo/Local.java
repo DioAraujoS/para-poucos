@@ -1,6 +1,6 @@
 package br.edu.ifpi.capar.para.poucos.modelo;
 
-/* @author Diovanna Araujo */
+/* @author Diovanna Araujo S */
 
 public class Local {
     private int id;
